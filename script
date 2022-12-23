@@ -1,2 +1,3 @@
 #!/bin/sh
 echo hello world, dit is een test voor mijn documentatie! Nogmaals Feedback.
+exit null
